@@ -1,0 +1,10 @@
+body {
+    font-family: 'Yusei Magic', sans-serif;
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #000000, #434343);
+    background: linear-gradient(to right, #000000, #434343);
+}
+
+.fas{padding: 7px}
+
+.animated {padding: 122px;}
