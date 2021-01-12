@@ -5,6 +5,11 @@ body {
     background: linear-gradient(to right, #000000, #434343);
 }
 
-.fas{padding: 7px}
+.fas{
+    padding: 7px
+}
 
-.animated {padding: 122px;}
+.imagen-alien {
+    display: flex;
+    justify-content: center
+}
