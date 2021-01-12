@@ -11,10 +11,15 @@ body {
 
 .imagen-alien {
     display: flex;
-    justify-content: center
+    justify-content: center;
+    
 }
-
-.row{
+.formulario{
+    background-color: rgb(243, 243, 243);
     display: flex;
-    justify-content: center
+    justify-content: center;
+
+}
+.form-group {
+    padding: 9px;
 }
